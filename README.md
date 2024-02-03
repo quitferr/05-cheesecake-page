@@ -32,6 +32,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Esse projeto responsivo de página de receita de um delicioso Cheesecake é desenvolvido no nível 03 do Explorer, o programa completo da Rocketseat que te leva do zero até sua primeira vaga como dev.
 
+- [Acesse o projeto finalizado, online](https://quitferr.github.io/05-cheesecake-page)
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/esLlIWcxJq835iEeoGUwNE/Explorer-Stage-03-Projeto-01-Copy?fuid=888512518452876823). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
@@ -42,4 +44,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com café e ♥# 05-cheesecake-page
+Feito com café e ♥
